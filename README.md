@@ -81,5 +81,6 @@ cd aws-outage-simulation
 pip install -r requirements.txt
 python3 chaos_lab.py
 
+![Output](Screenshot 2025-11-26 084800.png)
 
 
