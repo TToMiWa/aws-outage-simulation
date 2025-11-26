@@ -63,9 +63,9 @@ Example output:
 ---
 
 ## 🗂️ Project Structure  
-├── chaos_lab.py
+├── devops.py
 ├── README.md
-└── assets/
+└── screenshots
 └── architecture.png
 
 
